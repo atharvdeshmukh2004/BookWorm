@@ -7,7 +7,7 @@
   </tr>
    <tr>
     <td><img width="350px" src="./ScreenShots/SignUp.png" border="0" alt="Login" /></td>
-    <td> <img width="350px" src="./ScreenShots/Login Page.png" border="0"  alt="Register" /></td>
+    <td> <img width="350px" src="./ScreenShots/Login.png" border="0"  alt="Register" /></td>
   </tr>
    <tr>
     <td>Home Page</td>
@@ -15,7 +15,7 @@
   </tr>
   <tr>
     <td><img width="350px" src="./ScreenShots/Home Page.png" border="0" alt="Login" /></td>
-    <td> <img width="350px" src="./ScreenShots/Create Page.png" border="0"  alt="Register" /></td>
+    <td> <img width="350px" src="./ScreenShots/Create page.png" border="0"  alt="Register" /></td>
   </tr>
 <tr>
     <td>Profile Page</td>
